@@ -1,2 +1,2 @@
 # mutsa-practice
-팀원1 김호준
+팀원2 김호준
