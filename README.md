@@ -1,2 +1,2 @@
 # mutsa-practice
-팀원2 주해윤
+팀원1 주해윤
